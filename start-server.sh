@@ -20,4 +20,4 @@ if [ -f $seed ]; then
     args="$args seed.js"
 fi
 
-json-server $args
+imemento-json-server $args
